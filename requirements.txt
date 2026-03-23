@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pandas
+numpy
+yfinance
+openai
+streamlit
+requests
+matplotlib
+pytest
